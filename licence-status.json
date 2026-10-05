@@ -2,13 +2,13 @@
   "document": {
     "schema": "penguinstudios.licence-status/1",
     "status": "operational",
-    "issuedAt": "2026-09-28T03:00:01.491Z",
-    "expiresAt": "2026-10-12T03:00:01.491Z",
+    "issuedAt": "2026-10-05T03:00:01.423Z",
+    "expiresAt": "2026-10-19T03:00:01.423Z",
     "message": "Validation is operating normally.",
     "graceDays": null,
     "resolvedGraceDays": null,
     "contact": "https://discord.penguinstudios.eu"
   },
-  "signature": "u9dLttA7xZWb1KzWzb86+vwaZiZiBVCuMsSnogjfoZwEQOfIOw6XH9IZeRX6ghm78ztr57CYN38Sevb0zbf3Bg==",
+  "signature": "ebLuH9ua5lwuSTiZ4hUFQzUNYRpHb2aAHE2h8q89uycMMqIyAroHFwnfI+mQ6WqvHZENFr+n6u9rt8soZJ07Ag==",
   "algorithm": "ed25519"
 }
